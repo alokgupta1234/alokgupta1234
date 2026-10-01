@@ -1,30 +1,26 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=220&section=header&text=ALOK%20GUPTA&fontSize=58&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" width="100%"/>
-</p>
+<!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=MCA+Student+%7C+JIMS;Software+Developer;AI%2FML+Enthusiast;Building+Practical+Projects" />
-  </a>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=230&section=header&text=ALOK%20GUPTA&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%2FML%20ENTHUSIAST&descSize=23&descAlignY=58&descColor=FFFFFF&animation=fadeIn"
+    width="100%"
+  />
 </p>
+
+<!-- ===================== ANIMATED INTRO ===================== -->
 
 <p align="center">
-  🎓 <strong>MCA @ JIMS</strong>
-  &nbsp; • &nbsp;
-  💻 <strong>Software Development</strong>
-  &nbsp; • &nbsp;
-  🤖 <strong>AI / ML</strong>
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=%F0%9F%8E%93+MCA+%40+JIMS;%F0%9F%92%BB+Building+Software+Applications;%F0%9F%A4%96+Training+AI%2FML+Models;%F0%9F%A7%A0+Learning+DSA+%26+Problem+Solving;%F0%9F%92%BC+Open+to+Internship+Opportunities"
+    alt="Animated introduction"
+  />
 </p>
 
-<p align="center">
-  🌱 Learning Full Stack Development &nbsp; • &nbsp;
-  🧠 Strengthening DSA &nbsp; • &nbsp;
-  💼 Open to Internship Opportunities
-</p>
-
----
+<!-- ===================== ABOUT ME ===================== -->
 
 ## 👨‍💻 About Me
+
+Passionate about building practical solutions, learning new technologies, and turning ideas into useful applications.
 
 - 🎓 Currently pursuing **Master of Computer Applications (MCA)**
 - 💻 Interested in **Software & Full Stack Development**
