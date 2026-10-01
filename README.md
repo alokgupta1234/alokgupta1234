@@ -92,7 +92,13 @@ Passionate about building practical solutions, learning new technologies, and tu
 
 ### 🤖 AI / Data
 
-[![My Skills](https://skillicons.dev/icons?i=python,pandas,numpy,sklearn)](https://skillicons.dev)
+<a href="OFFICIAL_PYTHON_URL">
+  <img src="PYTHON_ICON_URL" width="50">
+</a>
+
+<a href="OFFICIAL_PANDAS_URL">
+  <img src="PANDAS_ICON_URL" width="50">
+</a>
 
 ### 🔧 Tools
 
