@@ -19,8 +19,6 @@ I'm an MCA student interested in **software development, web technologies, data 
 
 ## 🛠️ Technologies & Tools
 
-## 🛠️ Technologies & Tools
-
 ### 💻 Programming Languages
 
 <p>
