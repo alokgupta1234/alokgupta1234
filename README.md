@@ -90,17 +90,14 @@ Passionate about building practical solutions, learning new technologies, and tu
   </a>
 </p>
 
-### 🤖 AI / Data
+### 🤖 AI - ML | DevOps
 
-<a href="OFFICIAL_PYTHON_URL">
-  <img src="PYTHON_ICON_URL" width="50">
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=py" width="50" alt="Python">
 </a>
-
-<a href="OFFICIAL_PANDAS_URL">
-  <img src="PANDAS_ICON_URL" width="50">
+<a href="https://scikit-learn.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=sklearn" width="50" alt="Scikit-learn">
 </a>
-
-### 🔧 Tools
 
 <p>
   <a href="https://code.visualstudio.com/">
