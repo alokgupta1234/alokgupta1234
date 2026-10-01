@@ -95,6 +95,8 @@ Passionate about building practical solutions, learning new technologies, and tu
 <a href="https://github.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub">
 </a>
+
+
 ## 🚀 Featured Projects
 
 ### 🤖 CODSOFT Projects
