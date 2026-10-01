@@ -19,23 +19,47 @@ I'm an MCA student interested in **software development, web technologies, data 
 
 ## 🛠️ Technologies & Tools
 
+## 🛠️ Technologies & Tools
+
 ### 💻 Programming Languages
-`Java` `Python` `C` `JavaScript`
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,c,js" />
+  </a>
+</p>
 
 ### 🌐 Web Development
-`HTML` `CSS` `JavaScript`
 
-### 🗄️ Database
-`MySQL` `MongoDB`
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
+  </a>
+</p>
 
-### 🔧 Tools
-`Git` `GitHub` `VS Code`
+### 🗄️ Databases
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  </a>
+</p>
+
+### 🔧 Development Tools
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  </a>
+</p>
 
 ### 🤖 AI / Machine Learning
-`Python` `Pandas` `NumPy` `Scikit-learn`
 
----
-
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,sklearn" />
+  </a>
+</p>
 ## 🚀 Featured Projects
 
 ### 🤖 CODSOFT Projects
