@@ -26,10 +26,6 @@
 
 ## 👨‍💻 About Me
 
----
-
-## 👨‍💻 About Me
-
 - 🎓 Currently pursuing **Master of Computer Applications (MCA)**
 - 💻 Interested in **Software & Full Stack Development**
 - 🤖 Exploring **Machine Learning & Artificial Intelligence**
