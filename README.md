@@ -92,23 +92,7 @@ Passionate about building practical solutions, learning new technologies, and tu
 
 ### 🤖 AI / Data
 
-<p>
-  <a href="https://www.python.org/">
-    <img src="https://skillicons.dev/icons?i=python" height="50" />
-  </a>
-  <a href="https://numpy.org/">
-    <img src="https://skillicons.dev/icons?i=numpy" height="50" />
-  </a>
-  <a href="https://pandas.pydata.org/">
-    <img src="https://skillicons.dev/icons?i=pandas" height="50" />
-  </a>
-  <a href="https://matplotlib.org/">
-    <img src="https://skillicons.dev/icons?i=matplotlib" height="50" />
-  </a>
-  <a href="https://scikit-learn.org/">
-    <img src="https://skillicons.dev/icons?i=sklearn" height="50" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 ### 🔧 Tools
 
