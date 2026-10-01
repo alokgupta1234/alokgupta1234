@@ -31,92 +31,70 @@ Passionate about building practical solutions, learning new technologies, and tu
 
 <!-- ===================== TECHNOLOGIES & TOOLS ===================== -->
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-
-<p>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img src="https://skillicons.dev/icons?i=c" height="50" />
-  </a>
-  <a href="https://isocpp.org/">
-    <img src="https://skillicons.dev/icons?i=cpp" height="50" />
-  </a>
-  <a href="https://www.java.com/">
-    <img src="https://skillicons.dev/icons?i=java" height="50" />
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://skillicons.dev/icons?i=python" height="50" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=javascript" height="50" />
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://skillicons.dev/icons?i=mysql" height="50" />
-  </a>
-</p>
-
-### 🌐 Web Development
-
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html" height="50" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://skillicons.dev/icons?i=css" height="50" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=javascript" height="50" />
-  </a>
-  <a href="https://react.dev/">
-    <img src="https://skillicons.dev/icons?i=react" height="50" />
-  </a>
-  <a href="https://nodejs.org/">
-    <img src="https://skillicons.dev/icons?i=nodejs" height="50" />
-  </a>
-  <a href="https://expressjs.com/">
-    <img src="https://skillicons.dev/icons?i=express" height="50" />
-  </a>
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <a href="https://www.mysql.com/">
-    <img src="https://skillicons.dev/icons?i=mysql" height="50" />
-  </a>
-  <a href="https://www.mongodb.com/">
-    <img src="https://skillicons.dev/icons?i=mongodb" height="50" />
-  </a>
-</p>
-
-### 🤖 AI - ML | DevOps
+### Languages & Frontend
 
 <a href="https://www.python.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=py" width="50" alt="Python">
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="Python">
 </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript">
+</a>
+<a href="https://isocpp.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++">
+</a>
+<a href="https://www.c-language.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=c" height="50" alt="C">
+</a>
+<a href="https://www.java.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS">
+</a>
+
+### Web Development
+
+<a href="https://react.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="React">
+</a>
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js">
+</a>
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=express" height="50" alt="Express.js">
+</a>
+
+### Backend & Databases
+
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL">
+</a>
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB">
+</a>
+
+### AI / ML & Tools
+
 <a href="https://scikit-learn.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=sklearn" width="50" alt="Scikit-learn">
+  <img src="https://skillicons.dev/icons?i=sklearn" height="50" alt="Scikit-learn">
 </a>
-
-<p>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://skillicons.dev/icons?i=vscode" height="50" />
-  </a>
-  <a href="https://www.postman.com/">
-    <img src="https://skillicons.dev/icons?i=postman" height="50" />
-  </a>
-  <a href="https://www.mongodb.com/products/tools/compass">
-    <img src="https://skillicons.dev/icons?i=mongodb" height="50" />
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" height="50" />
-  </a>
-  <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" height="50" />
-  </a>
-</p>
-
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code">
+</a>
+<a href="https://www.postman.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="Postman">
+</a>
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git">
+</a>
+<a href="https://github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub">
+</a>
 ## 🚀 Featured Projects
 
 ### 🤖 CODSOFT Projects
