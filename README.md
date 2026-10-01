@@ -1,8 +1,30 @@
-# 👋 Hi, I'm Alok Gupta
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=220&section=header&text=ALOK%20GUPTA&fontSize=58&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" width="100%"/>
+</p>
 
-### 🎓 MCA Student | 💻 Developer | 🤖 AI/ML Enthusiast
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=MCA+Student+%7C+JIMS;Software+Developer;AI%2FML+Enthusiast;Building+Practical+Projects" />
+  </a>
+</p>
 
-I'm an MCA student interested in **software development, web technologies, data structures, and machine learning**. I enjoy building practical projects and continuously improving my technical skills.
+<p align="center">
+  🎓 <strong>MCA @ JIMS</strong>
+  &nbsp; • &nbsp;
+  💻 <strong>Software Development</strong>
+  &nbsp; • &nbsp;
+  🤖 <strong>AI / ML</strong>
+</p>
+
+<p align="center">
+  🌱 Learning Full Stack Development &nbsp; • &nbsp;
+  🧠 Strengthening DSA &nbsp; • &nbsp;
+  💼 Open to Internship Opportunities
+</p>
+
+---
+
+## 👨‍💻 About Me
 
 ---
 
