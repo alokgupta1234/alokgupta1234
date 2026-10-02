@@ -139,13 +139,18 @@ A machine learning project focused on disease prediction, currently developed fo
 
 ---
 
-## 🤝 Connect With Me
-
+##💬 Let's connect and build something intelligent!
 <p>
   <a href="https://github.com/alokgupta1234">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+<!-- Footer -->
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"
+  width="100%"
+/>
 
 ---
 
