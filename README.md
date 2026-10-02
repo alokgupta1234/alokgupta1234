@@ -143,7 +143,7 @@ A machine learning project focused on disease prediction, currently developed fo
 
 <p align="center">
 
-  <a href="https://github.com/alokgupta1234/github-readme-stats">
+  <a href="https://github.com/alokgupta1234">
     <img
       src="https://github-readme-stats.vercel.app/api?username=alokgupta1234&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
       height="165"
@@ -156,6 +156,18 @@ A machine learning project focused on disease prediction, currently developed fo
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokgupta1234&layout=compact&theme=transparent&hide_border=true"
       height="165"
       alt="Alok Gupta Top Languages"
+    />
+  </a>
+
+</p>
+
+<p align="center">
+
+  <a href="https://github.com/alokgupta1234">
+    <img
+      src="https://streak-stats.demolab.com?user=alokgupta1234&theme=transparent&hide_border=true"
+      height="165"
+      alt="Alok Gupta GitHub Streak"
     />
   </a>
 
