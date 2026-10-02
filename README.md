@@ -10,7 +10,7 @@
 
   <img
     src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=18&duration=2500&pause=700&color=555555&center=true&vCenter=true&width=700&lines=%F0%9F%8E%93+MCA+%40+JIMS;%F0%9F%92%BB+Building+Software+Solutions;%F0%9F%A4%96+Training+AI%2FML+Models;%F0%9F%A7%A0+Learning+DSA+%26+Problem+Solving;%F0%9F%92%BC+Open+to+Internship+Opportunities"
-    alt="MCA @ JIMS | Building Software Solutions | Training AI/ML Models | Learning DSA & Problem Solving | Open to Internship Opportunities"
+                               alt="MCA @ JIMS | Building Software Solutions | Training AI/ML Models | Learning DSA & Problem Solving | Open to Internship Opportunities"
   />
 
 </p>
