@@ -1,19 +1,22 @@
 <!-- ===================== PROFILE HEADER ===================== -->
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=ALOK%20GUPTA&fontSize=65&fontColor=ffffff&fontFamily=Montserrat&fontAlignY=35&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%2FML%20ENTHUSIAST&descSize=22&descAlignY=53&descAlign=50&descColor=ffffff&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=ALOK%20GUPTA&fontSize=65&fontColor=ffffff&fontFamily=Times%20New%20Roman&fontAlign=50&fontAlignY=35&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%2FML%20ENTHUSIAST&descSize=22&descAlign=50&descAlignY=54&descColor=ffffff&animation=fadeIn"
   width="100%"
   alt="Alok Gupta"
 />
 
-<p align="center">
+<div align="center">
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=TimesNewRoman&weight=500&size=18&duration=2500&pause=700&color=555555&center=true&vCenter=true&width=700&lines=%F0%9F%8E%93+MCA+%40+JIMS;%F0%9F%92%BB+Building+Software+Solutions;%F0%9F%A4%96+Training+AI%2FML+Models;%F0%9F%A7%A0+Learning+DSA+%26+Problem+Solving;%F0%9F%92%BC+Open+to+Internship+Opportunities"
-                               alt="MCA @ JIMS | Building Software Solutions | Training AI/ML Models | Learning DSA & Problem Solving | Open to Internship Opportunities"
-  />
+<img
+  src="https://readme-typing-svg.demolab.com/?font=Libre+Baskerville&size=18&duration=2200&pause=800&color=FFFFFF&center=true&vCenter=true&width=1000&height=45&lines=%F0%9F%8E%93+MCA+%40+JIMS;%F0%9F%92%BB+Building+Software+Solutions;%F0%9F%A4%96+Training+AI%2FML+Models;%F0%9F%A7%A0+Learning+DSA+%26+Problem+Solving;%F0%9F%92%BC+Open+to+Internship+Opportunities"
+  alt="MCA @ JIMS | Building Software Solutions | Training AI/ML Models | Learning DSA & Problem Solving | Open to Internship Opportunities"
+/>
 
-</p>
+</div>
+
+<br>
+
 <!-- ===================== ABOUT ME ===================== -->
 
 ## 👨‍💻 About Me
