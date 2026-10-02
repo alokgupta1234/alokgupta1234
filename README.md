@@ -140,7 +140,8 @@ A machine learning project focused on disease prediction, currently developed fo
 
 ---
 
-##💬 Let's connect and build something intelligent!
+###💬 Let's connect and build something intelligent!
+
 <p>
   <a href="https://github.com/alokgupta1234">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
