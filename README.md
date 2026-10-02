@@ -161,18 +161,6 @@ A machine learning project focused on disease prediction, currently developed fo
 
 </p>
 
-<p align="center">
-
-  <a href="https://github.com/alokgupta1234">
-    <img
-      src="https://streak-stats.demolab.com?user=alokgupta1234&theme=transparent&hide_border=true"
-      height="165"
-      alt="Alok Gupta GitHub Streak"
-    />
-  </a>
-
-</p>
-
 ---
 
 ## 🔥 GitHub Streak
